@@ -1,0 +1,107 @@
+nav {
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(https://images.pexels.com/photos/4100130/pexels-photo-4100130.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+ }
+
+
+.btn-outline-success {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+
+
+.banner {
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(https://images.pexels.com/photos/1913226/pexels-photo-1913226.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  padding: 100px 50px;
+}
+
+.logo {
+  max-width: 40px;
+}
+
+.container-perso {
+  max-width: 950px;
+}
+
+.lancemodal {
+  margin-top: 60px;
+  text-align: center;
+
+}
+
+h1 { 
+  text-align: center;
+  color: white;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: "Lucida Console", cursive; 
+}
+
+p {
+  columns: 300px 3; 
+  text-align: center;
+  background-color: #D9B6E8;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  border: 2px black;
+  padding: 40px;
+  margin: 5px;
+}
+
+h3 { 
+  background-color: #F0DCF8;
+  opacity: 0.3;
+  background-size: cover;
+  text-align: center;
+  font-size: 64px;
+  font-family: "Times New Roman", Times; 
+}    
+
+.btn-primary {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+ } 
+
+.btn-secondary {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+} 
+.btn-third {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+} 
+
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}           
+          
+  
+
+ /* style.css */
+/* --- Import Components stylesheets --- */
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+/* [...] */
+
+ 
