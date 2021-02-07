@@ -1,0 +1,69 @@
+
+
+.btn-outline-success {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+
+.banner {
+  max-width: 1400px;
+  margin: auto;
+  margin-top: 100px;
+  background-image: linear-gradient(90deg, rgba(169,139,152,0.5) 0%, rgba(169,139,152,0.5) 35%, rgba(169,139,152,0.5) 100%), url(https://images.pexels.com/photos/6194973/pexels-photo-6194973.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  padding: 100px 50px;
+}
+
+.logo {
+  max-width: 40px;
+}
+
+.container-perso {
+  max-width: 950px;
+}
+
+.cards {
+  padding: 15px 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-element {
+  width: 30%;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+
+.color {
+  background-color: #C9ADA7;
+  height: 1500px;
+}
+
+.btn-primary {
+ background-color: black;
+}
+
+
+
+
+
+
+
+

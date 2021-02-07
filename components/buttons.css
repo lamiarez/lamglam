@@ -1,0 +1,33 @@
+.btn-outline-success {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+.container-btn {
+ justify-content: space-between;
+ margin-bottom: 40px;
+ margin-top: 20px;
+ text-align: center;
+ }
+
+ .btn-primary {
+  background-color: #4A4E69;
+  border: 1px solid black;
+  color: white;
+  align-items: center;
+  
+ } 
+ 
+.btn-third { 
+  background-color: #4A4E69;
+  border: 1px solid black;
+  color: white;
+ 
+} 
+
+.btn-modal {
+  background-color: #4A4E69;
+  border: 1px solid black;
+  color: white;
+ } 
